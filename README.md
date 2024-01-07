@@ -21,6 +21,7 @@ updateScreen(): Updates and prints the game board, including colors for differen
 Boundry(): Sets up the initial game board and player position.
 Functions for enemy and player bullet motions, collision detection, and enemy movement.
 File I/O function to write player information (name, age, score) to a file.
+
 ![image](https://github.com/Najeebullah3124/Space-Shooter-Game/assets/147226547/763a4585-b3a2-45f9-a05d-0458872be4f2)
 
 
